@@ -1,0 +1,38 @@
+_repo: Ritual-and-belief-b-Studies-in-the-history-of-religion_71238
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartland, Edwin Sidney
+    alias: Hartland, E. Sidney (Edwin Sidney)
+    birthdate: 1848
+    deathdate: 1927
+    gutenberg_agent_id: '26617'
+    url: http://www.gutenberg.org/2009/agents/26617
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Sidney_Hartland
+description: ''
+gutenberg_issued: '2023-07-21'
+identifiers:
+  gutenberg: '71238'
+  lccn: '14012339'
+language: en
+pgterms:marc904: https://archive.org/details/b2901055x
+pgterms:marc905: 20230718095810hartland
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aUnited Kingdom :$bWilliams and Norgate, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+- !lcsh 'Magic'
+- !lcsh 'Rites and ceremonies'
+- !lcsh 'Ethnopsychology'
+- !lcc 'BL'
+- GITenberg
+tableOfContents: Learning to "think black" -- The relations of religion and magic
+  -- The boldness of the Celts -- The haunted widow -- The philosophy of mourning
+  clothes -- The rite at the temple of Mylitta -- The voice of the stone of destiny.
+title: 'Ritual and belief : $b Studies in the history of religion'
+url: http://www.gutenberg.org/ebooks/71238
